@@ -1,7 +1,4 @@
 # -*- coding: utf-8 -*-
-from pyvirtualdisplay import Display
-display = Display(visible=0, size=(800, 600))
-display.start()
 import dash
 from dash.dependencies import Input, Output, State
 import dash_table
