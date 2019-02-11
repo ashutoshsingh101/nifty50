@@ -1,0 +1,9 @@
+beautifulsoup4==4.7.1
+dash==0.37.0
+dash_core_components==0.43.1
+dash_html_components==0.13.5
+dash_table==3.4.0
+numpy==1.16.1
+pandas==0.24.1
+plotly==3.6.1
+selenium==3.141.0
